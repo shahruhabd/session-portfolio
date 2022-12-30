@@ -1,0 +1,52 @@
+.proj-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    padding: 20px 100px 0;
+
+    -webkit-animation-duration: 5s;
+    animation-duration: 5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+}
+@-webkit-keyframes fadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+    }
+    @keyframes fadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+.project {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    letter-spacing: 1px;
+    width: 700px;
+    padding: 20px 20px 0;
+    border: 1px solid #e5e5e5;
+    border-radius: 8px;
+}
+.project:last-child {
+    margin-bottom: 20px;
+}
+.proj-icon {
+    width: 100%;
+    margin-top: 10px;
+}
+.proj-title {
+    font-size: 24px;
+    font-weight: 900;
+}
+.proj-link {
+    text-decoration: none;
+    color: navy;
+    font-weight: 900;
+    font-size: 14px;
+}
+.proj-link:hover {
+    color: blue;
+}

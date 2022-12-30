@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "title": "Pangea roommates",
+        "desc": "Поиск руммейтов. Реализован на react js, firebase. Есть регистрация, публикация и просмотр объявлений.",
+        "githubLink": "https://github.com/shahruhabd/pangea",
+        "siteLink": "https://pangearoommates.com/",
+        "icon": "./images/pangea.png"
+    }, 
+    {
+        "id": "2",
+        "title": "Cleaning X",
+        "desc": "HTML и CSS. С адаптацией под все устройства.",
+        "githubLink": "https://github.com/shahruhabd/cleaning-X",
+        "siteLink": "https://shahruhabd.github.io/cleaning-X/",
+        "icon": "./images/cleaningX.png"
+    },
+    {
+        "id": "3",
+        "title": "Todo list",
+        "desc": "HTML, CSS, JS. Тудушка на чистом джава скрипте.",
+        "githubLink": "https://github.com/shahruhabd/to-do-list ",
+        "siteLink": "https://shahruhabd.github.io/to-do-list/",
+        "icon": "./images/todo.png"
+    },
+    {
+        "id": "4",
+        "title": "Shah Shop",
+        "desc": "HTML, CSS, React JS, Firebase. Магазин с каталогами, авторизацией.",
+        "githubLink": "https://github.com/shahruhabd/shah-shop",
+        "siteLink": "https://rk2-proj.firebaseapp.com/",
+        "icon": "./images/sShop.png"
+    },
+    {
+        "id": "5",
+        "title": "Calculator with authorization",
+        "desc": "HTML, CSS, JS. Мини опрос, после проходения которого, открывается калькулятор.",
+        "githubLink": "https://github.com/shahruhabd/calculator-with-auth",
+        "siteLink": "https://shahruhabd.github.io/calculator-with-auth/",
+        "icon": "./images/calc.png"
+    }
+]
